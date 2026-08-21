@@ -12,4 +12,4 @@ SEDI is Utah's constitutional, rights-first framework for digital identity. It e
 
 ## About
 
-SEDI is developed by the Division of Technology Services (DTS) within the Utah Department of Government Operations.
+SEDI is developed by the Office of Data Privacy, in partnership with the Division of Technology Services (DTS), within the Utah Department of Government Operations.
