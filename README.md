@@ -1,6 +1,6 @@
 # SEDI Utah — Interoperability Working Group
 
-This repository is maintained by the Utah SEDI (Secure and Equitable Digital Identity) program as a resource for the SEDI Interoperability Working Group.
+This repository is maintained by the Utah SEDI (State Endorsed Digital Identity) program as a resource for the SEDI Interoperability Working Group.
 
 ## Purpose
 
@@ -17,4 +17,4 @@ The SEDI Interoperability Working Group is open. Meeting details are shared thro
 
 ## About SEDI
 
-SEDI is Utah's digital identity program, developed by the Division of Technology Services (DTS) within the Utah Department of Government Operations.
+SEDI is Utah’s constitutional, rights-first framework for digital identity. It establishes a secure, privacy-preserving trust layer that enables identity verification in the digital world while protecting individual liberty and limiting centralized control.
